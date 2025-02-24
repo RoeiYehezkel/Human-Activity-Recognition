@@ -1,5 +1,4 @@
 # Human-Activity-Recognition
-# DLW2 Report
 
 ---
 
